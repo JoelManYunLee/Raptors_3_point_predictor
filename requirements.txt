@@ -10,3 +10,5 @@ scikit-learn==0.24.1
 
 ##### Basketball datasets
 nba_api
+nba_scraper
+reference-scraper

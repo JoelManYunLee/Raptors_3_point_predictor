@@ -11,5 +11,3 @@ xgboost
 
 ##### Basketball datasets
 nba_api
-nba_scraper
-basketball-reference-scraper
